@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Azal LB
 - 😄 Pronouns: she/her
-- 👀 I’m interested in auditory perception and speech comprehension
-- 🌱 I’m currently a M2 student at Ircam, Sorbonne and Telecom Paris
-- 💞️ I’m looking for fundings for my PhD project on hearing loss and aids
+- 👀 I work in auditory perception and speech processing
+- 🌱 I'm an engineer mostly based in Paris
 - ⚡ Fun fact: I wrote 2 books when i was 15 !
 
 <!---
