@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Azal LB
 - 😄 Pronouns: she/her
 - 👀 I work in auditory perception and speech processing
-- 🌱 I'm an engineer mostly based in Paris
+- 🌱 I'm an engineer mainly based in Paris
 - ⚡ Fun fact: I wrote 2 books when i was 15 !
 
 <!---
